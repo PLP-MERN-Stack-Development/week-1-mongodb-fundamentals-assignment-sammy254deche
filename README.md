@@ -65,7 +65,7 @@ MongoDB & Mongoose
 Postman (for API testing)
 📦 Installation & Setup
 Clone the repository:
-git clone https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Stephen-179.git
+git clone https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Samuel.git
 cd product-api
 Install dependencies:
 
@@ -163,5 +163,5 @@ Content-Type: application/json
 
 
 🧑‍💻 Author
-Stephen Mwatsaka
+Samuel Deche 
 MERN Stack Developer | PLP Participant
