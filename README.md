@@ -165,3 +165,27 @@ Content-Type: application/json
 🧑‍💻 Author
 Samuel Deche 
 MERN Stack Developer | PLP Participant
+
+
+
+
+
+MongoDB Fundamentals Assignment
+Author: Samuel
+This project demonstrates the use of MongoDB for data insertion, querying, aggregation, and indexing using the MongoDB shell and Compass.
+
+📁 Files Included:
+insert_books.js – Script to insert 10+ book documents.
+queries.js – MongoDB queries for CRUD, advanced operations, and aggregation.
+Screenshot(s) – Showing the inserted data in MongoDB Compass.
+🧪 How to Run
+Start MongoDB locally or connect to MongoDB Atlas.
+
+Insert the books:
+
+mongosh < insert_books.js
+Open MongoDB Shell (mongosh) or Compass Shell, then run queries from queries.js.
+
+📸 Screenshot Screenshots are in the screenshots/ folder, showing:
+
+The books collection with inserted data.
